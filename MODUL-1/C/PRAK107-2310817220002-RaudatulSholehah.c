@@ -4,13 +4,13 @@ int main()
     int a, b, c;
 
     printf("Diketahui : \n");
-    printf("Inputkan nilai sisi segitia a: ");
+    printf("Inputkan nilai sisi segitiga a: ");
     scanf("%d", &a);
 
-    printf("Inputkan nilai sisi segitia b: ");
+    printf("Inputkan nilai sisi segitiga b: ");
     scanf("%d", &b);
 
-    printf("Inputkan nilai sisi segitia c: ");
+    printf("Inputkan nilai sisi segitiga c: ");
     scanf("%d", &c);
 
     int Harga_tanah_Per_Meter = 85000;
